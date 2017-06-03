@@ -1,0 +1,2 @@
+# Budget-Writer
+(UNFINISHED) This project is a simple app in which the user will be able to create a document that keeps track of all their individual transactions. They will be able to enter each transaction with a budget writing GUI that will ask the user to enter basic information and then submit it to a seperate document and then add to it whenever they want. This idea is a work in progress and will be adding more to it periodically when I can.
